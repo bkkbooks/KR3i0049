@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3i0049/WYG/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 異魚圖賛箋補引戊午之役觖望禹門自分泥蟠畢此生矣同社多挾䇿走長安而余復負笈入山寺章句瀋餘既所憎對覓話老衲外惟日披古函㪚帙以喻適志耳偶簡升菴先生異魚圖賛不避疎淺漫摭見聞詮次如卷已而老衲見之戯謂曰羡淵不如結網獲鮮可以忘筌余服膺其得斵輪㣲㫖異日持青􅆃墨頭十數魚名暨山海經所載珠蝥之類来訊則又升菴先生所遺者余因類搜其遺補之維時陽萌寒谷氣啓負氷聊借筆墨作濡呴緣以傲簡蟫曰余將彈鋏衡泌不欲似爾分飽神仙字也稿成命兒子軰較正魯魚乃亦彷箋如左凡三卷又閏集一萬厯戊午長至日蒲亭胡世安識
+  hash: sha256:eda2553e9d5acd5730c3fca62af959ca3c4154edd106149be4e36fcfb4e85f96
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3i0049_WYG_006-1a, image: WYG0847/WYG0847-0814a.png}
+metadata:
+  title: 異魚圖贊箋
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:19:01.144264'
+  juan_title: 補引
+  source:
+    repository: kanripo
+    path: KR3i0049/KR3i0049_006.txt
+hash: sha256:85666c893673240a2908f9faa5f0cb8b10e3c0ab608228de1e6c9e41b3a88e25

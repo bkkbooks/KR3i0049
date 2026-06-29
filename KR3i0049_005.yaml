@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3i0049/krp/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 異魚圖贊箋跋豫作異魚圖贊間出以示好事者或獻疑曰爾雅注蟲魚定非磊落人子不見韓子之詩乎豫曰韓子有為言之也跡其焚膏繼晷之際口吟手披之餘遇蟲名魚字將刪之乎老子云美言不信而五千之言未嘗不美莊子欲絶學而莊子何嘗不學蘇子謂人生識字憂患始其欲人盡不識字乎如此之類古人善戲謔自掊擊之一機也􅢖然不可以訓若孔子則豈其然教小子以學詩終於多識則蟲魚固在其中矣孔子豈非磊落人哉近之不悅學者􅉨􅉨拾古人善謔之言以為不肖護躬之符可笑且悼充類其說則伏獵弄麞之侍即長鎗大劒之將軍一一皆磊落人也夫升菴載識
+  hash: sha256:6620eb362da7350820e9248a1ebac2f206e449fac2c14076d949a641f81b67bf
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3i0049_WYG_005-1a, image: WYG0847/WYG0847-0813c.png}
+metadata:
+  title: 異魚圖贊箋
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:19:01.144264'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR3i0049/KR3i0049_005.txt
+hash: sha256:09be93e91f0f27ea9bc202b4915769b4e9b28d2f7730fade55691604d853975c
